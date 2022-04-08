@@ -22,23 +22,21 @@
   <p> Bagian 2
     
     
-    ![ss34](https://user-images.githubusercontent.com/101866805/162444022-b940918c-1e2a-44d5-bb23-360de693d214.png)
+![ss34](https://user-images.githubusercontent.com/101866805/162444022-b940918c-1e2a-44d5-bb23-360de693d214.png)
 
 
 <p>menambahkan style pada css
     
   
-  ![ss36](https://user-images.githubusercontent.com/101866805/162444241-3b5f146c-5a22-48b3-9c7a-949e58f69e59.png)
+![ss36](https://user-images.githubusercontent.com/101866805/162444241-3b5f146c-5a22-48b3-9c7a-949e58f69e59.png)
     
   
 <p> simpan dan lihat hasilnya
       
-
   
-      ![ss37](https://user-images.githubusercontent.com/101866805/162444934-1ec0066f-4f44-4a71-9b06-9e541a8e1a38.png)
+![ss37](https://user-images.githubusercontent.com/101866805/162444934-1ec0066f-4f44-4a71-9b06-9e541a8e1a38.png)
 
-      
-  
+        
 <p> A. Laporan Praktikum
         
         ![ss1](https://user-images.githubusercontent.com/101866805/162444485-95ffa4f2-6e89-4e90-9372-5dd863ea1729.png)
